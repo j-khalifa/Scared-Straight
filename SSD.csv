@@ -1,0 +1,86 @@
+Name,Age,Sex,Race,County,Offenses,Offense Type,Total Offenses,Reoffended
+Darius,16,M,Black,"Belleville, IL",Burglary/Drugs/Stealing,Property/Substance Abuse ,3,Yes
+DeAndre,17,M,Black,"Belleville, IL",Stealing/Drugs,Property/Substance Abuse ,2,No
+Danielle,14,F,White,"Belleville, IL",Assault/Promiscuity/Drugs,Violent/Youth Delinquency/Substance Abuse,3,No
+Dusty ,18,F,White,"Belleville, IL",Assault/Alcohol/Drugs/Truancy,Violent/Substance Abuse/Youth Delinquency,4,No
+Iyonnah,16,F,Black,"Chester County, SC",Assault/Threaten violence ,Violent ,2,No
+Sade,17,F,Black,"Chester County, SC",Assault/Gang Activity/Drugs/Alcohol,Violent/Substance Abuse,4,Yes
+Kayla,17,F,White,"Chester County, SC",Shoplifting ,Property ,1,Yes
+Lashavia,18,F,Black,"Chester County, SC",Assault/Stealing/Gang Activity,Violent/Property,3,No
+Angel,14,M,Hispanic,"San Bernardino, CA",Assault/Gang Activity/Drugs/Alcohol,Violent/Substance Abuse,4,No
+Jake,14,M,White,"San Bernardino, CA",Assault and Battery/Drugs/Alcohol,Violent/Substance Abuse,3,Yes
+Clayton ,15,M,White,"San Bernardino, CA",Drugs/Assault,Substance Abuse/Violent,2,Yes
+Jacob,14,M,White,"San Bernardino, CA",Domestic Violence/Drugs,Violent/Substance Abuse,2,No
+Samkisha,15,F,Black,"Hampton Roads, VA",Assault,Violent ,1,No
+Ni'Jel,14,M,Black,"Hampton Roads, VA",Assault/Burglary/Drugs/Alcohol,Violent/Property/Substance Abuse ,4,No
+Tyler,12,M,White,"Hampton Roads, VA",Assault and Battery/Stealing/Drugs,Violent/Property/Substance Abuse ,3,No
+Bakari,15,M,Black,"Hampton Roads, VA",Breaking and Entering/Theft,Property ,2,No
+Thomas,16,M,Black,"Douglas County, GA",Theft/Domestic Violence/Assault,Property/Violent,3,Yes
+Darnisa,15,F,Black,"Douglas County, GA",Promiscuity/Drugs,Youth Delinquency/Substance Abuse,2,No
+Jake,13,M,White,"Douglas County, GA",Assault/Drugs/Alcohol,Violent/Substance Abuse,3,Yes
+Timothy ,16,M,White,"Douglas County, GA",Assault/Trespassing/Shoplifting,Violent/Property,3,No
+Adarius,13,M,Black,"Fulton County, GA",Arson/Gang Activity,Property/Violent,2,No
+Tabreca,12,F,Black,"Fulton County, GA",Assault,Violent,1,Yes
+Adjanie,15,F,Black,"Fulton County, GA",Truancy/Theft/Assault,Youth Delinquency/Property/Violent,3,No
+Jefferson ,16,M,Black,"Fulton County, GA",Burglary/Trespassing/Domestic Violence,Property/Violent,3,Yes
+Brynlee,17,M,White,"Oklahoma City, OK",Domestic Abuse,Violent,1,Yes
+Kerina,16,F,White,"Oklahoma City, OK",Assault/Running Away,Violent/Youth Delinquency,2,No
+Siera ,14,F,White,"Oklahoma City, OK",Drugs/Alcohol/Running Away,Substance Abuse/Youth Delinquency,3,No
+Cortasia,15,F,Black,"Oklahoma City, OK",Gang Activity/Assault/Drugs,Violent/Substane Abuse,3,No
+Jordan,12,F,White,"Oklahoma City, OK",Drugs/Alcohol/Truancy/Running Away,Substance Abuse/Youth Delinquency,4,Yes
+Jazmine,14,F,White,"Western Tidewater, VA",Drugs,Substance Abuse,1,No
+Shonteja,16,F,Black,"Western Tidewater, VA",Running Away,Youth Delinquency,1,No
+Teondra,13,F,Black,"Western Tidewater, VA",Assault/Theft,Violent/Property,2,No
+Travon,13,M,Black ,"Western Tidewater, VA",Assault/Bullying,Violent/Youth Delinqunecy,2,Yes
+Darisha,17,F,Black,"Saint Clair County, IL",Gang Activity/Assault/Drugs,Violent/Substance Abuse ,3,No
+Dakota,16,M,White,"Saint Clair County, IL",Alcohol/DUI,Substance Abuse,2,No
+Jalen,15,M,Black,"Saint Clair County, IL",Assault,Violent ,1,Yes
+Tamadre,16,F,Black,"Saint Clair County, IL",Assault/Expelled,Violent/Youth Delinquency ,2,Yes
+Cedric,15,M,Black,"Fulton County, GA",Assault/Expelled,Violent/Youth Delinquency ,2,No
+Aleisea,15,F,Black,"Fulton County, GA",Assault/Truancy,Violent/Youth Delinquency ,2,No
+Stephen,16,M,Black,"Fulton County, GA",Home Invasion/Gambling,Property,2,No
+Mariah,13,F,Black,"Fulton County, GA",Assault,Violent,1,No
+De'Aundre,17,M,Black,"Chester County, SC",Drugs/Robbery/Shoplifting/Truancy,Substance Abuse/Property/Youth Delinquency ,4,No
+JonQuavious,16,M,Black,"Chester County, SC",Assault/Expelled,Violent/Youth Delinquency,2,Yes
+Jospeh,16,M,White,"Chester County, SC",Drugs/Stealing,Substance Abuse/Property ,2,No
+Daniel  ,16,M,White,"Chester County, SC",Assualt and Battery/Destruction of Property,Violent/Property,2,Yes
+Derrick ,14,M,Black,"Fulton County, GA",Assault,Violent ,1,No
+Darica,16,F,Black,"Fulton County, GA",Assault and Battery/Domestic Violence,Violent ,2,Yes
+James ,15,M,Black,"Fulton County, GA",Theft/Domestic Violence/Drugs,Property/Violent/Substance Abuse,3,Yes
+Ashley ,14,F,Black,"Fulton County, GA",Assault ,Violent ,1,Yes
+Baquria,14,F,Black,"Floyd County, GA",Shoplifting/Alcohol/Drugs,Property/Substance Abuse ,3,No
+Koko,15,M,Black,"Floyd County, GA",Carjacking/Gang Activity,Property/Violent,2,Yes
+Ethan,13,M,White,"Floyd County, GA",Assault/Theft,Violent/Property,2,No
+Ashanti,12,F,Black,"Floyd County, GA",Assault/Gang Activity/Drugs/Alcohol,Violent/Substance Abuse ,4,No
+Kyshawn,16,M,Black,"Portsmith County, VA",Theft/ Home Invasion/Drugs/Gang Activity,Property/Substance Abuse/Violent,4,No
+Delontae,15,M,Mixed,"Portsmith County, VA",Domestic Assault and Battery ,Violent,1,Yes
+Shaun,14,M,Mixed,"Portsmith County, VA",Assault,Violent,1,No
+Jay,14,M,White,"Portsmith County, VA",Assault/Theft,Violent/Property,2,Yes
+Ty'chell,13,F,Black,"Chester County, SC",Stealing/Alcohol,Property/Substance Abuse,2,Yes
+Ty'lexus,11,F,Black,"Chester County, SC",Assault,Violent ,1,Yes
+Taylor,18,F,White,"Chester County, SC",Weapon Possession on School Grounds,Violent,1,No
+Jasmine ,15,F,Black,"Chester County, SC",Drugs/Assault,Substance Abuse/Violent,2,Yes
+Ni'Carey,14,M,Black,"Dougherty County, GA",Gang Activity/Assault/Drugs,Violent/Substance Abuse,3,No
+Mathew,12,M,White,"Dougherty County, GA",Gun Theft/Domestic Violence ,Property/Violent,2,No
+Carter ,13,M,White,"Dougherty County, GA",Stealing/Pyromania/Assault,Property/Violent ,3,No
+Cin'Que,14,M,Black,"Dougherty County, GA",Assault and Battery/Gang Activity/Drugs/Alcohol,Violent/Substance Abuse,4,Yes
+Laranesha,14,F,Black,"Douglas County, GA",Assault/Robbery/Gang Acitivity,Violent/Property,3,No
+Brittany ,16,F,Black,"Douglas County, GA",Assault/Running Away,Violent/Youth Delinquency,2,No
+Javier,13,M,Black,"Douglas County, GA",Gang Activity/Stealing/Drugs ,Violent/Property/Substance Abuse ,3,No
+Dylan*,14,M,AAPI,"Richland County, SC",Domestic Abuse/Assault,Violent,2,Yes
+Miguel,15,M,Black,"Richland County, SC",Vandalism/Expelled,Property/Youth Delinquency,2,Yes
+Jaheim,13,M,Black,"Richland County, SC",Drugs ,Substance Abuse,1,No
+Tony,14,M,Black,"Richland County, SC",Robbery/Assault and Battery,Property/Violent,2,Yes
+Ryan,13,M,Black,"Richland County, SC",Burglary/Assault/Gang Activity,Property/Violent,3,No
+Keyiona,17,F,Black,"Oklahoma City, OK",Assault,Violent,1,No
+Precious,14,F,Black,"Oklahoma City, OK",Assault,Violent,1,No
+Bobby,14,M,Mixed,"Oklahoma City, OK",Stealing/Credit Card Fraud,Property,2,No
+Ethan,14,M,White,"Oklahoma City, OK",Domestic Violence/Stealing,Violent/Property,2,Yes
+Lexi,15,F,White,"St. Clair County, IL",Domestic Violence/Assault/Stealing,Violent/Property,3,No
+Marcel,13,M,Black,"St. Clair County, IL",Stealing/Assault,Property/Violent,2,No
+Micheal,14,M,White,"St. Clair County, IL",Drugs/Alcohol/Running Away,Substance Abuse/Youth Delinquency,3,Yes
+Anique,16,F,Black,"St. Clair County, IL",Assault,Violent,1,No
+Jason,14,M,Black,"St. Clair County, IL",Domestic Violence/Assault/Gang Activity,Violent,3,Yes
+Tori,14,F,Black,"Douglas County, GA",Assault/Stealing ,Violent/Property,2,Yes
+Gregory,14,M,Black,"Douglas County, GA",Simple Battery/Assault,Violent,2,No
+George,14,M,Black,"Douglas County, GA",Domestic Violence/Assault/Stealing,Violent/Property,3,No
